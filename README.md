@@ -169,7 +169,7 @@ Object:
 
 ---
 
-## কেন keyof + Generics ব্যবহার করবেন?
+## কেন keyof + Generics ব্যবহার করা হয়?
 
 - Completely type-safe property access
 - ভুল key থেকে নিরাপদ
